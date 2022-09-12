@@ -1,4 +1,4 @@
-name: Check
+name: Check v2
 on:
   pull_request:
     branches: [ "**" ]
